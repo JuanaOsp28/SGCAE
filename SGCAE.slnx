@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SGCAE.Api/SGCAE.Api.csproj" />
+    <Project Path="src/SGCAE.Application/SGCAE.Application.csproj" />
+    <Project Path="src/SGCAE.Domain/SGCAE.Domain.csproj" />
+    <Project Path="src/SGCAE.Infrastructure/SGCAE.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SGCAE.Application.Tests/SGCAE.Application.Tests.csproj" />
+    <Project Path="tests/SGCAE.Domain.Tests/SGCAE.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
